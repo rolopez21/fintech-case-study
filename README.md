@@ -18,20 +18,32 @@ Important dates for robo advisors industry:
 
 
 
-* Name of company
+*Betterment
 
-* When was the company incorporated?
+*Incorporated April 7, 2009
 
-* Who are the founders of the company?
+Betterment was founded in 2008 in New York City by Jon Stein, a Columbia Business School MBA graduate, and Eli Broverman, a lawyer out of NYU School of Law.
 
 * How did the idea for the company (or project) come about?
+ Betterment started when it occurred to Jon Stein that the concepts he learned while studying behavioral economics and biology in college could actually apply to the many mistakes he was making in managing my own investments.
+
+While economics is good at explaining the world at a macro level, it fails to explain human behavior. At a micro level, economics assumes that humans are rational, and they’re far from rational. Especially when it comes to their money; people heavily discount the future, they withdraw when markets crash, and it’s because our emotions drive our decisions.
+
+As the example of bad investing behavior, he was investing  money through seven different brokerage accounts. he was constantly monitoring his accounts (bad behavior) and trying to time the market (worse behavior), and the result was wasting time, taxes, and transaction costs, without making any more than he would have in an index fund (bad outcome).
+
+He wanted a service that did all of this: told him what to do with my money, and then did it. he realized that the only way he was going to get something like that was to build it myself.[3]
+
+
 
 * How is the company funded? How much funding have they received?
-
+Betterment received Series A round funding from Bessemer Venture Partners in December 2010. By October 2012, Menlo Ventures provided Series B funding along with Bessemer Venture Partners and Anthemis Group.
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+
+The maturing roboadvisor market as it embraces the human side of advising. Betterment added human advisors to its mix in 2017 and last year introduced the ability for investors to tailor their automated portfolio allocations.[4]
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -71,3 +83,8 @@ What solution does this company offer that their competitors do not or cannot of
 [1] https://en.wikipedia.org/wiki/Robo-advisor
 
 [2] https://roboadvisors.com/history-of-robo-advisors
+
+[3] https://www.betterment.com/resources/the-history-of-betterment/
+
+[4] https://www.forbes.com/sites/jonathanponciano/2019/02/04/top-investing-fintech-companies/#fe175505c9a2
+
